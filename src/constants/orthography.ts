@@ -23,12 +23,12 @@ export const ORTHOGRAPHY = [
 "qh",
 "r",
 "s",
-"t"
-"t´"
-"th"
-"u"
-"w"
-"y"
+"t",
+"t´",
+"th",
+"u",
+"w",
+"y",
 
 ]
 
