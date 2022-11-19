@@ -1,0 +1,103 @@
+{
+    "about": "Kay pukllaymanta",
+    "gameName": "No Wordle - {{language}}",
+    "enterKey": "Apachiy",
+    "deleteKey": "Chinkachiy",
+    "notEnoughLetters": "Mana aypanchu letrakuna",
+    "wordNotFound": "Mana palabra tarisqachu",
+    "solution": "Chay simita karqasqan {{solution}}",
+    "gameCopied": "Pukllayqa portapapeles nisqaman copiasqa",
+    "howToPlay": "Imaynatataq pukllana",
+    "instructions": "Adivinanpi simita {{tries}} intentokuna. Chaymanta sapa kallpachakuy qhepaman, qillqakunapa colorininmi tikranqa para mostrar qué tan cerca estás de acertar la palabra.",
+    "pickYourLanguage": "Uk simita akllan",
+    "correctSpotInstructions": "Chay T qillqaqa simipin kachkan y allin posiciónpin kashan.",
+    "wrongSpotInstructions": "Chay N simipi tarikun ichaqa mana allinchu posiciónpi.",
+    "notInWordInstructions": "Chay O simipi mana qillqaqachu riqsin.",
+    "guessDistribution": "Distribución de aciertos",
+    "statistics": "Estadísticas nisqamanta",
+    "totalTries": "Pukllan",
+    "successRate": "Atipaykuna",
+    "currentStreak": "Racha actual",
+    "bestStreak": "Racha aswan allin",
+    "newWordCountdown": "Musuq simipi",
+    "share": "Qunakuy",
+    "winMessages": [
+        "¡Gran trabajo!",
+        "Increíble",
+        "¡Bien hecho!"
+    ],
+    "firstExampleWord": [{
+            "letter": "a",
+            "highlight": true
+        },
+        {
+            "letter": "y",
+            "highlight": false
+        },
+        {
+            "letter": "q",
+            "highlight": false
+        },
+        {
+            "letter": "i",
+            "highlight": false
+        },
+        {
+            "letter": "y",
+            "highlight": false
+        }
+    ],
+    "secondExampleWord": [{
+            "letter": "a",
+            "highlight": false
+        },
+        {
+            "letter": "r",
+            "highlight": false
+        },
+        {
+            "letter": "m",
+            "highlight": true
+        },
+        {
+            "letter": "a",
+            "highlight": false
+        },
+        {
+            "letter": "y",
+            "highlight": false
+        }
+    ],
+    "thirdExampleWord": [{
+            "letter": "a",
+            "highlight": false
+        },
+        {
+            "letter": "y",
+            "highlight": false
+        },
+        {
+            "letter": "s",
+            "highlight": false
+        },
+        {
+            "letter": "a",
+            "highlight": true
+        },
+        {
+            "letter": "y",
+            "highlight": false
+        }
+    ],
+    "aboutAuthorSentence": "Este es un clon de código abierto del juego Wordle adaptado a {{language}} por <3>{{author}}</3>. ",
+    "aboutCodeSentence": "Echa un vistazo al <1>código original</1> de <3>Hannah Park</3> o echa un vistazo al <5>fork de Aidan Pine</5> y personalízalo para otro idioma. ",
+    "aboutDataSentence": "Las palabras para este juego se obtuvieron de <1>{{wordListSource}}</1>. ",
+    "aboutOriginalSentence": "También puedes jugar la original <1>aquí</1>",
+    "languages": {
+        "en": "English",
+        "es": "Español",
+        "sw": "Kiswahili",
+        "zh": "中文",
+        "qul": "Quechua"
+    }
+}
