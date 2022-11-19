@@ -2,27 +2,34 @@ import { CONFIG } from './config'
 
 export const ORTHOGRAPHY = [
 "a",
-"ä",
-"e",
-"ë",
+"ch",
+"ch´",
+"chh",
 "i",
-"ï",
-"o",
-"u",
-"p",
-"t",
+"j",
 "k",
-"ts",
-"x",
+"k´",
+"kh",
+"l",
+"ll",
 "m",
 "n",
-"w",
-"y",
-"j",
-"l",
+"ñ",
+"p",
+"p´",
+"ph",
+"q",
+"q´",
+"qh",
 "r",
 "s",
-"'",
+"t"
+"t´"
+"th"
+"u"
+"w"
+"y"
+
 ]
 
 if (CONFIG.normalization) {
